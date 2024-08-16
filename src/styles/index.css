@@ -10,3 +10,6 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.list-group-item.active {
+    border-color: #32c01f;
+}
